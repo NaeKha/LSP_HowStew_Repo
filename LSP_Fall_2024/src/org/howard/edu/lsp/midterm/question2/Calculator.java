@@ -1,6 +1,6 @@
 // This question used online learning tools like Google, stack exchange, and AI for reference material and assistance 
 package org.howard.edu.lsp.midterm.question2;
-/*
+/* 
  * A utility class that provides methods to sum numbers of different types.
  *
  * The class includes:

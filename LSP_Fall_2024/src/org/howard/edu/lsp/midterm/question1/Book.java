@@ -1,4 +1,4 @@
-//Answer was created with the help of online learning tools like AI and google 
+//to avoid plagiraism penalties the Answer for this questions was created with the help of online learning tools like AI and google, 
 
 package org.howard.edu.lsp.midterm.question1;
 
