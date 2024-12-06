@@ -1,3 +1,4 @@
+
 package org.howard.edu.lsp.finalexam.question1;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -68,3 +69,5 @@ public class MathUTestCases {
         assertEquals(4, mathUtils.gcd(-8, -12), "GCD of -8 and -12 should be 4");
     }
 }
+
+// StackOverflow, GeeksforGeeks, and AI assisted answers

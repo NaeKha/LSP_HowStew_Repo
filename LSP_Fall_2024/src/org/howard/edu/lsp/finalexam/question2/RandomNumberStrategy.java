@@ -13,3 +13,5 @@ public interface RandomNumberStrategy {
     int generateRandomNumber();
 } 
 
+
+//StackOverflow, GeeksforGeeks, and AI assisted answers

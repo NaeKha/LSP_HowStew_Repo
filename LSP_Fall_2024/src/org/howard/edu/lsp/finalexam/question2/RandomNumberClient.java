@@ -18,3 +18,5 @@ public class RandomNumberClient {
         System.out.println("Random number (Custom): " + service.generateRandomNumber());
     }
 }
+
+//StackOverflow, GeeksforGeeks, and AI assisted answers
